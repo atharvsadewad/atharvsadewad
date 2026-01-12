@@ -41,7 +41,6 @@ Modern static website with clean UI
 
 ## 🌐 Portfolio
 🔗 Live Portfolio: https://atharvsadewad.github.io  
-(We’ll set this up next)
 
 ---
 

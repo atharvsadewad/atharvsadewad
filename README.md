@@ -7,6 +7,7 @@
 
 ## 🧑‍💻 About Me
 I am a Computer Science Engineering student with a strong interest in:
+- Cybersecurity & Forensics
 - Web Development
 - Problem Solving
 - Building real-world projects
